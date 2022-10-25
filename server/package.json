@@ -1,0 +1,19 @@
+{
+    "name": "JATE",
+    "version": "1.0.0",
+    "description": "Serve text editing stuff",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server.js --ignore client",
+        "server": "node server.js"
+    },
+    "keywords": [],
+    "author": "Alec Otterson",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
