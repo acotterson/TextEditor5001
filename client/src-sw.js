@@ -1,5 +1,5 @@
 
-// this 
+// ??? this came with the code. Do we need to use both, or just one?
 const { offlineFallback, warmStrategyCache } = require('workbox-recipes');
 const { StaleWhileRevalidate } = require('workbox-strategies');
 const { CacheFirst } = require('workbox-strategies');
@@ -27,6 +27,7 @@ warmStrategyCache({
   strategy: pageCache,
 });
 
+// ??? this came with the code. Do I need to set up another?
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 // Set up asset cache
