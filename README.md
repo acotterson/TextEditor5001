@@ -18,13 +18,13 @@ This application will allow the user to edit text online and have it saved even 
 
 ## Installation
 
-Open the program through the [URL](https://acotterson.github.io/StackPortfolio/). To install locally, navigate to the web version and click the "Install" button.
+Open the program through the [URL](https://texteditor5001.herokuapp.com/). To install locally, navigate to the web version and click the "Install" button.
 
 ## Usage
 
 Type whatever text you want in the text editor. Your text will be saved for later viewing and editing.
 
-[Link to Application](https://acotterson.github.io/StackPortfolio/)
+[Link to Application](https://texteditor5001.herokuapp.com/)
 
 Screenshot:
 ![Product Screen Shot](assets/media/textEditor5001.png)
