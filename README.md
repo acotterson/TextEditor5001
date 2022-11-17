@@ -4,7 +4,7 @@
 
 ## Description
 
-This application will allow the user to manage the backend portion of their social network through internal APIs.
+This application will allow the user to edit text online and have it saved even if offline. The user can also install the application locally if desired.
 
 ## Table of Contents
 
@@ -18,17 +18,13 @@ This application will allow the user to manage the backend portion of their soci
 
 ## Installation
 
-Open the program through the URL.
+Open the program through the [URL](https://acotterson.github.io/StackPortfolio/). To install locally, navigate to the web version and click the "Install" button.
 
 ## Usage
 
-Run "node index.js" or "npm run start". Routes may be accessed through any compatible application. For testing, a program such as Insomnia will provide assurance of a functional API.
+Type whatever text you want in the text editor. Your text will be saved for later viewing and editing.
 
-You may view users, and thoughts through the provided Get routes. Adding an id parameter onto these Get routes will return the requested individual item. Post routes may be used to add new users, friends, thoughts, and reactions. Put routes are available for updating users and thoughts. Finally, Delete routes are available for removing any item. In regards to deletion, a category cannot be deleted if it currently contains products.
-
-[Video Link of Usage](https://drive.google.com/file/d/1VLwXh7Pi6B_19rPzqQOByy5rTJzs8pEI/view?usp=sharing)
-
-[socialBHShortCrop.webm](https://user-images.githubusercontent.com/35825121/202360879-c21698ce-5f8a-4041-8455-468de8be4e97.webm)
+[Link to Application](https://acotterson.github.io/StackPortfolio/)
 
 ## Questions
 
