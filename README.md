@@ -26,6 +26,9 @@ Type whatever text you want in the text editor. Your text will be saved for late
 
 [Link to Application](https://acotterson.github.io/StackPortfolio/)
 
+Screenshot:
+![Product Screen Shot](assets/media/textEditor5001.png)
+
 ## Questions
 
 Github Profile: [acotterson](https://github.com/acotterson)
